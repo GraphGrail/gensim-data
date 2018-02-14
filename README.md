@@ -1,3 +1,5 @@
+GraphGrail Ai – is the world’s first Artificial Intelligence platform for Blockchain built on top of Natural Language Understanding technology with the DApps marketplace.
+
 # What is Gensim-data for?
 
 Research datasets regularly disappear, change over time, become obsolete or come without a sane implementation to handle the data format reading and processing.
@@ -146,3 +148,6 @@ To load a model or corpus, use either the Python or command line interface of [G
 `Gensim-data` is open source software released under the [LGPL 2.1 license](https://github.com/rare-technologies/gensim-data/blob/master/LICENSE).
 
 Copyright (c) 2018 [RARE Technologies](https://rare-technologies.com/).
+
+This module is not belong to Graph Grail!!!
+It will be used to integrate with the micro services provided by Graph Grail.
